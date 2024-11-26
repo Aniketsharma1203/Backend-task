@@ -19,6 +19,7 @@
     "express-rate-limit": "^7.4.1",
     "mongoose": "^8.8.2",
     "nodemon": "^3.1.7",
+    "url-shortner": "file:",
     "uuid": "^11.0.3",
     "valid-url": "^1.0.9"
   }
